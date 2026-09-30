@@ -9,7 +9,7 @@ The project is designed as a **Cloud Computing project** and demonstrates concep
 ## 🌐 Live Demo
 
 🚀 **Streamlit Cloud:**
-`YOUR_STREAMLIT_APP_URL`
+`https://cloud-hobby-skills-tracker-bwdhhtfkchcfrxjngp3tds.streamlit.app/`
 
 📂 **GitHub Repository:**
 `https://github.com/Neha-Joshi05/Cloud-Hobby-Skills-Tracker.git`
